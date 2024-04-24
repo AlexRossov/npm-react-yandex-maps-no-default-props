@@ -1,6 +1,6 @@
 # React Yandex Maps No Default Props
 
-[![npm](https://img.shields.io/npm/v/@pbe/react-yandex-maps)](https://www.npmjs.com/package/@pbe/react-yandex-maps)
+[![npm](https://img.shields.io/npm/v/react-yandex-maps-no-default-props)](https://www.npmjs.com/package/react-yandex-maps-no-default-props)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@pbe/react-yandex-maps)](https://bundlephobia.com/package/@pbe/react-yandex-maps)
 
 [Yandex Maps API][ymaps-api] bindings for React
@@ -34,7 +34,7 @@ Try running a simple example:
 
 ```jsx
 import React from 'react';
-import { YMaps, Map, Placemark } from '@pbe/react-yandex-maps';
+import { YMaps, Map, Placemark } from 'react-yandex-maps-no-default-props';
 
 export default function App() {
   const defaultState = {
